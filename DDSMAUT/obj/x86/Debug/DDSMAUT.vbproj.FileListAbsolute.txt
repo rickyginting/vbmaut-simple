@@ -1,0 +1,9 @@
+c:\users\administrator\documents\visual studio 2010\Projects\DDSMAUT\DDSMAUT\bin\Debug\DDSMAUT.exe
+c:\users\administrator\documents\visual studio 2010\Projects\DDSMAUT\DDSMAUT\bin\Debug\DDSMAUT.pdb
+c:\users\administrator\documents\visual studio 2010\Projects\DDSMAUT\DDSMAUT\bin\Debug\DDSMAUT.xml
+c:\users\administrator\documents\visual studio 2010\Projects\DDSMAUT\DDSMAUT\obj\x86\Debug\DDSMAUT.Form1.resources
+c:\users\administrator\documents\visual studio 2010\Projects\DDSMAUT\DDSMAUT\obj\x86\Debug\DDSMAUT.Resources.resources
+c:\users\administrator\documents\visual studio 2010\Projects\DDSMAUT\DDSMAUT\obj\x86\Debug\DDSMAUT.vbproj.GenerateResource.Cache
+c:\users\administrator\documents\visual studio 2010\Projects\DDSMAUT\DDSMAUT\obj\x86\Debug\DDSMAUT.exe
+c:\users\administrator\documents\visual studio 2010\Projects\DDSMAUT\DDSMAUT\obj\x86\Debug\DDSMAUT.xml
+c:\users\administrator\documents\visual studio 2010\Projects\DDSMAUT\DDSMAUT\obj\x86\Debug\DDSMAUT.pdb
